@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.exe
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.deps.json
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.runtimeconfig.json
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.runtimeconfig.dev.json
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.dll
+C:\Users\user\source\repos\30 May\bin\Debug\netcoreapp3.1\30 May.pdb
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.AssemblyInfo.cs
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.dll
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.pdb
+C:\Users\user\source\repos\30 May\obj\Debug\netcoreapp3.1\30 May.genruntimeconfig.cache
